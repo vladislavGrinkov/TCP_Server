@@ -1,0 +1,10 @@
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Acer ES1-572-P5NO\Source\Repos\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
